@@ -10,7 +10,7 @@ This repository contains a collection of useful and random scripts for Windows t
 
 ## Available Scripts
 
-- **001-**: `pc_info.bat` — Collects detailed hardware information from your PC for remote audits or support.
+- **001-PC_INFO**: `pc_info.bat` — Collects detailed hardware information from your PC for remote audits or support.
 
 More scripts will be added over time. Feel free to contribute your own!
 
