@@ -70,9 +70,9 @@ powershell -Command "Get-CimInstance Win32_BaseBoard | Select-Object Manufacture
 echo.
 
 echo ==========================================
-echo IMPORTANTE: Toma una captura de pantalla de esta información
+echo    Toma una captura de esta información
 echo ==========================================
 echo.
-echo        PRESIONA CUALQUIER TECLA PARA SALIR
+echo    PRESIONA CUALQUIER TECLA PARA SALIR
 echo ==========================================
 pause > nul
